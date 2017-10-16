@@ -17,5 +17,5 @@ A contacts app that allows you to add contact's profile picture, name and email 
 
 ###Screenshots
 
-![Alt text](https://user-images.githubusercontent.com/1784187/31622544-9013c284-b251-11e7-8ba5-b2eed77ef2e6.png "Contacts list")
+![Alt text](https://user-images.githubusercontent.com/1784187/31622546-9053f71e-b251-11e7-826e-4d555b390ccf.png "Contacts list")
 ![Alt text](https://user-images.githubusercontent.com/1784187/31622547-90710aca-b251-11e7-843b-434a215fd596.png "Add new contact")
